@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student Data</string>
+    <string name="label1">Input Data Mahasiswa</string>
+    <string name="label2">Data Mahasiswa</string>
+    <string name="labelnim">NIM</string>
+    <string name="labelnama">Nama</string>
+    <string name="labelalamat">Alamat</string>
+    <string name="labelnew">Add</string>
+    <string name="labelabout">About</string>
+    <string name="labelundo">Undo</string>
+    <string name="labelsimpan">Simpan</string>
+    <string name="labelabout_judul">About the App</string>
+    <string name="labelabout_konten">Aplikasi ini dibuat oleh:</string>
+    <string name="labelabout_konten1">Chintya Rifyaningrum</string>
+    <string name="labelabout_konten2">NIM: 1511500868</string>
+    <string name="labelabout_konten3">&#174;2017 Copyright StudentData</string>
+</resources>
